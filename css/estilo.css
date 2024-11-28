@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+ul{
+    list-style-type: none;
+    display: flexbox;
+    margin: 20px;
+    background-image: url(../imagens/Rectangle\ 335.svg);
+}
+
+ul li{
+    display: inline;
+    padding-left: 10px;
+}
